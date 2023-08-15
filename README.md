@@ -14,4 +14,3 @@ In this project, I utilized Python and OpenCV to create a robust system capable 
 
 Whether it's for traffic management, security surveillance, or data-driven decision-making, this Vehicle Detection and Counting System offers a versatile solution that can be applied to various scenarios. I thoroughly enjoyed working on this project and expanding my skills in computer vision and Python programming.
 
-S
