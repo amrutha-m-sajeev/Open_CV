@@ -1,4 +1,3 @@
-# Open_CV
 
 🚗 Vehicle Detection and Counting System using Computer Vision 🚗
 
